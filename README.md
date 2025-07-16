@@ -11,6 +11,11 @@ A Next.js + Supabase starter kit for creating and managing tasks, with authentic
    git clone [https://github.com/your-username/offpistachallenge.git](https://github.com/joekings2k/offpistaChallenge/)
    cd offpistachallenge
 2. **Install dependencies**
+   ```bash
    npm install
-  # or
-  yarn install
+    # or
+   yarn install
+   
+   
+ 
+  
