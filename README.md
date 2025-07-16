@@ -1,4 +1,4 @@
-# offpistaChallenge# Offpista Superbase Challenge
+# Offpista Superbase Challenge
 
 A Next.js + Supabase starter kit for creating and managing tasks, with authentication and insights.
 
@@ -19,7 +19,7 @@ A Next.js + Supabase starter kit for creating and managing tasks, with authentic
    Copy .env.example to .env.local and fill in your Supabase credentials:
    NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
-   
+---
    
  
   
