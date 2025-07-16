@@ -15,6 +15,10 @@ A Next.js + Supabase starter kit for creating and managing tasks, with authentic
    npm install
     # or
    yarn install
+3. **Configure environment variables**
+   Copy .env.example to .env.local and fill in your Supabase credentials:
+   NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
    
    
  
